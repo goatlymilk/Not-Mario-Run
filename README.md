@@ -1,4 +1,4 @@
-Welcome my name is zaiden
+
 <html><head>
     <title>geniushour</title> 
     <link rel="stylesheet" type="text/css" href="./pencilrevived.css">
@@ -28,6 +28,10 @@ Welcome my name is zaiden
         });
       }
     </script>
-  
 
 </body></html>
+<head>
+    <title>geniushour</title> 
+    <link rel="stylesheet" type="text/css" href="./pencilrevived.css">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+  </head>
